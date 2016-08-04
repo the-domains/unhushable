@@ -1,4 +1,3 @@
-layout_spectrum: 0.5914188222959638
 typography_spectrum: 0.24047900480218232
 color:
   brandStrength: 0.9903458403423429
@@ -11,5 +10,10 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
+layout_spectrum: 0.5914188222959638
 name: UnHushable
+navigation:
+  - name: Ossic headphones create 3D audio unique to you
+    id: a938465e-d65d-48bf-8d3c-cccdd5f94366
+    type: content
 description: Shout!
