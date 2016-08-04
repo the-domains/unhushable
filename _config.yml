@@ -1,0 +1,14 @@
+layout_spectrum: 0.5914188222959638
+typography_spectrum: 0.24047900480218232
+color:
+  brandStrength: 0.9903458403423429
+  lightness: 0.917744328500703
+  saturation: 0.12227901257574558
+  rhythmicContrast: 0.7567411581985652
+  brandColors:
+    - '#00585F'
+    - '#009393'
+    - '#FFFCC4'
+    - '#F0EDBB'
+    - '#FF3800'
+name: UnHushable
